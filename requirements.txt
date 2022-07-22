@@ -1,0 +1,5 @@
+aiogram
+pytelegrambotapi
+time
+requests
+bs4
